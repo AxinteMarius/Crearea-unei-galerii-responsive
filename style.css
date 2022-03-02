@@ -1,0 +1,38 @@
+body {
+  font-family: sans-serif;
+
+}
+div.aplication {
+  max-width: 960px;
+  width: 90%;
+  margin: 0 2em;
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+  text-align: center;
+}
+h1 {
+  margin: auto 2em;
+}
+div.imagine{
+  width: 140px;
+  height: 100px;
+  background-color: #6BA2D9;
+  margin: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+img {
+  width: 80px;
+  height: 80px;
+
+}
+div.text {
+  background-color: #FAF7FF;
+  font-size: 14px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+#paragraf{
+   margin: 2em 10% auto 3em;
+}
